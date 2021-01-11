@@ -262,8 +262,6 @@ class ScoreCalculator3{
             cnt++;
         }
     }
-
-
 }
 
 public class EightHomeWork9 {

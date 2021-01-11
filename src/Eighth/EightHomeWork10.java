@@ -7,3 +7,4 @@ public class EightHomeWork10 {
         ett.MultiplicationTable(2);
     }
 }
+

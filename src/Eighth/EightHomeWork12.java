@@ -56,3 +56,4 @@ public class EightHomeWork12 {
         ft.factoryDivision(3);
     }
 }
+

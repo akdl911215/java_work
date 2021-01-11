@@ -84,7 +84,6 @@ public class MySeries {
         return sum;
     }
 
-
     public void fibnacciSeries(int n) {
         int first = 1;
         int second = 1;

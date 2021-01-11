@@ -66,12 +66,7 @@ class DicePlayer {
             }
         }
     }
-
 }
-
-
-
-
 
 public class EightHomeWork4 {
     public static void main(String[] args) {

@@ -26,6 +26,7 @@ public class EightHomeWork11 {
         int []BulletinBoard = new int[num];
         System.out.println("num 값 = " + num);
 
+
 //        Scanner scan = new Scanner(System.in);
 //        System.out.print("숫자를 입력하세요 = ");
 //        int random = scan.nextInt();

@@ -7,3 +7,4 @@ public class EightHomeWork2 {
         ett.PrintNum(3, 33);
     }
 }
+
