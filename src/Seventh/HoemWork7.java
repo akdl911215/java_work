@@ -3,6 +3,7 @@ package Seventh;
 import java.util.Arrays;
 
 class staffPerson{
+    int i;
     int[] staffMember;
 
 
@@ -14,7 +15,7 @@ class staffPerson{
         }
     }
 
-    }
+
 
     @Override
     public String toString() {

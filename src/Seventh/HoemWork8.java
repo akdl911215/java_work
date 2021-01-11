@@ -1,4 +1,4 @@
-package Seventh;
+/*package Seventh;
 
 import java.util.Arrays;
 
@@ -37,4 +37,4 @@ class staffPerson2 {
 public class HoemWork8 {
         public static void main(String[] args) {
     }
-}
+}*/
